@@ -1,0 +1,8 @@
+{
+    "crush": ["Gabrielle Vigo", "Gaby Vigo", "Gaby", "Gabrielle", "gibgabs"],
+    "family": ["mom", "Judy", "judy", "dad", "rene", "Rene", "Renato", "renato", "Jurel", "jurel"],
+    "friends": ["Tristen", "tristen", "Dayna", "dayna",  "Kyla", "kyla", "Andrew", "andrew"],
+    "nvidia": [
+        { "name": "jensen", "message": "AI-accelerated." }
+    ]
+}

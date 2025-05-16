@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Memory Garden</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="loader">
+    <h1>Loading your garden...</h1>
+  </div>
+
+  <div id="app" style="display: none;">
+    <h1>Welcome to the Memory Garden</h1>
+    <input type="text" id="nameInput" placeholder="What's your name?">
+    <button onclick="checkName()">Enter</button>
+    <div id="experience"></div>
+    <audio id="bgMusic" src="assets/music/for_gaby.mp3" preload="auto"></audio>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
